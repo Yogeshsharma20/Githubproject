@@ -1,7 +1,7 @@
 name: Deployment-Workflow_01
 
 on:
-  push:
+  push
 
 jobs:
   deploy:
